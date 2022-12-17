@@ -1,10 +1,7 @@
-* Book Store DLL Adapter
+# Book Store DLL Adapter
 
-My Submission for CPSC 131, Section 07, Project 2 - Book Store DLL Adapter
+# Properties
 
-*Information
-
-*Alex Bui <buia4@csu.fullerton.edu> 885680090
-
-#Instructions
-Compiled book store program
+* The book store maintains a list of books, allows the user to add new books to inventory, sells books to a customer, and views a list of all books in the inventory.
+* Implemented using a doubly linked list 
+* Learned how to implement a standard data structure, performed under a wrapper class for practical use
